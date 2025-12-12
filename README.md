@@ -8,7 +8,7 @@ Daily and monthly payments are registered in a journal
 
 In other words, journal entry contains a list of payments and incomes.
 
-### Journal entry
+### Journal entry
 
 A journal entry has:
 
